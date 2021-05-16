@@ -8,13 +8,6 @@
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='300'/>
 
 
-|
-|:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[sithum batrow](https://t.me/sibatrow/)**                                                                                |
-| <a href="https://github.com/sbatrow"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/sithum batrow"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/sithum batrow/"><img src="https://i.ibb.co/Kx2GSrT/instagram.png" width="32px" height="32px"></a> |
-
-
-
 
 
 <!-- Your badges
