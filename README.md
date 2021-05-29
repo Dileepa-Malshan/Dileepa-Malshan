@@ -21,7 +21,7 @@ You can use the website to generate badges: https://shields.io/
 
 &nbsp;
 
-<img width="42%" align="right" alt="Github" src="https://telegra.ph/file/032e346e61e5e2ac25798.png" />
+<img width="42%" align="right" alt="Github" src="https://telegra.ph/file/8275e2f52c6af47f2c026.jpg" />
 
 - 👨🏽‍💻 I’m currently working on [Technicle_Hackers_Group ](https://t.me/Technicle_Hacker);
 - 🌱 I’m currently learning Python And Linux(CircleCI); 
