@@ -34,7 +34,7 @@ You can use the website to generate badges: https://shields.io/
 
 
 # GITHUB STATUS.
-- ![Profile views](https://gpvc.arturio.dev/sbatrow)
+- ![Profile views](https://gpvc.arturio.dev/DiDileepa-Malshan)
 - [![GitHub followers](https://img.shields.io/github/followers/sbatrow.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/sbatrow?tab=followers)
 
 <p>
