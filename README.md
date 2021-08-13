@@ -23,7 +23,7 @@ You can use the website to generate badges: https://shields.io/
 
 <img width="42%" align="right" alt="Github" src="https://telegra.ph/file/8275e2f52c6af47f2c026.jpg" />
 
-- 👨🏽‍💻 I’m currently working on [Technicle_Hackers_Group ](https://t.me/Technicle_Hacker);
+- 👨🏽‍💻 I’m currently working on [VPN_HUB_LK](https://t.me/VPN_HUB_LK);
 - 🌱 I’m currently learning Python And Linux(CircleCI); 
 - 🤔 I’m looking for help with Design Pattern 😭;
 - 💬 Ask me about anything, I am happy to help;
@@ -76,8 +76,4 @@ You can use the website to generate badges: https://shields.io/
 
 # Follow me on
 <p align="left">
-<a href="https://t.me/sibatrow" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/sithum batrow" target="blank"><img align="center" src="https://github.com/th3unkn0n/extra/blob/master/.img/ig.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/sithum batrow" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
-</p>
----
+<a href="https://t.me/Dileepa_Malshan" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
