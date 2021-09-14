@@ -35,11 +35,11 @@ You can use the website to generate badges: https://shields.io/
 
 # GITHUB STATUS.
 - ![Profile views](https://gpvc.arturio.dev/DiDileepa-Malshan)
-- [![GitHub followers](https://img.shields.io/github/followers/sbatrow.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/sbatrow?tab=followers)
+- [![GitHub followers](https://img.shields.io/github/followers/sbatrow.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Dileepa-Malshan?tab=followers)
 
 <p>
   <a href="https://github.com/sbatrow/handle-path-oz">
-    <img width="55%" align="left" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=sbatrow&show_icons=true&hide_border=true" />
+    <img width="55%" align="left" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=Dileepa-Malshan&show_icons=true&hide_border=true" />
   </a>
 </p>
 <p align ="right">
